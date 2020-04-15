@@ -1,0 +1,10 @@
+.Mainheading{
+    width:90%;
+    border:1px solid black;
+    background-color: rgb(164, 192, 228);
+    margin: auto;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    padding-left: 10px;
+}

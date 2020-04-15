@@ -1,0 +1,12 @@
+.textbox{
+    border: 2px solid grey;
+    width:200px;
+    height: 25px;
+    margin-top:20px;
+    text-align: center;
+    }
+
+.personcalss{
+    display: inline-block;
+    margin-left: 10px;
+}
